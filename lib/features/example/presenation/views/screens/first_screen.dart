@@ -18,6 +18,9 @@ class FirstScreen extends StatelessWidget {
         children:
         [
           Center(child: Text('Welcome to my Google Maps App')),
+          SizedBox(height: 10,),
+          Center(child: Text('This is the learning branch')),
+
         ],
       ),
 
